@@ -1,0 +1,11 @@
+D:\OneDrive - Arteveldehogeschool\GDM\GDM_CSSI1\gdmgent-1819-csse1\opdrachten\opdracht2\bin\Debug\netcoreapp2.1\opdracht2.deps.json
+D:\OneDrive - Arteveldehogeschool\GDM\GDM_CSSI1\gdmgent-1819-csse1\opdrachten\opdracht2\bin\Debug\netcoreapp2.1\opdracht2.runtimeconfig.json
+D:\OneDrive - Arteveldehogeschool\GDM\GDM_CSSI1\gdmgent-1819-csse1\opdrachten\opdracht2\bin\Debug\netcoreapp2.1\opdracht2.runtimeconfig.dev.json
+D:\OneDrive - Arteveldehogeschool\GDM\GDM_CSSI1\gdmgent-1819-csse1\opdrachten\opdracht2\bin\Debug\netcoreapp2.1\opdracht2.dll
+D:\OneDrive - Arteveldehogeschool\GDM\GDM_CSSI1\gdmgent-1819-csse1\opdrachten\opdracht2\bin\Debug\netcoreapp2.1\opdracht2.pdb
+D:\OneDrive - Arteveldehogeschool\GDM\GDM_CSSI1\gdmgent-1819-csse1\opdrachten\opdracht2\obj\Debug\netcoreapp2.1\opdracht2.csprojAssemblyReference.cache
+D:\OneDrive - Arteveldehogeschool\GDM\GDM_CSSI1\gdmgent-1819-csse1\opdrachten\opdracht2\obj\Debug\netcoreapp2.1\opdracht2.csproj.CoreCompileInputs.cache
+D:\OneDrive - Arteveldehogeschool\GDM\GDM_CSSI1\gdmgent-1819-csse1\opdrachten\opdracht2\obj\Debug\netcoreapp2.1\opdracht2.AssemblyInfoInputs.cache
+D:\OneDrive - Arteveldehogeschool\GDM\GDM_CSSI1\gdmgent-1819-csse1\opdrachten\opdracht2\obj\Debug\netcoreapp2.1\opdracht2.AssemblyInfo.cs
+D:\OneDrive - Arteveldehogeschool\GDM\GDM_CSSI1\gdmgent-1819-csse1\opdrachten\opdracht2\obj\Debug\netcoreapp2.1\opdracht2.dll
+D:\OneDrive - Arteveldehogeschool\GDM\GDM_CSSI1\gdmgent-1819-csse1\opdrachten\opdracht2\obj\Debug\netcoreapp2.1\opdracht2.pdb
