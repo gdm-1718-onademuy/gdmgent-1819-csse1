@@ -1,0 +1,4 @@
+d:\OneDrive - Arteveldehogeschool\GDM\GDM_CSSI1\gdmgent-1819-csse1\opdrachten\opdracht5\deel3_singletonPattern\obj\Debug\netcoreapp2.2\deel3_singletonPattern.csprojAssemblyReference.cache
+d:\OneDrive - Arteveldehogeschool\GDM\GDM_CSSI1\gdmgent-1819-csse1\opdrachten\opdracht5\deel3_singletonPattern\obj\Debug\netcoreapp2.2\deel3_singletonPattern.csproj.CoreCompileInputs.cache
+d:\OneDrive - Arteveldehogeschool\GDM\GDM_CSSI1\gdmgent-1819-csse1\opdrachten\opdracht5\deel3_singletonPattern\obj\Debug\netcoreapp2.2\deel3_singletonPattern.AssemblyInfoInputs.cache
+d:\OneDrive - Arteveldehogeschool\GDM\GDM_CSSI1\gdmgent-1819-csse1\opdrachten\opdracht5\deel3_singletonPattern\obj\Debug\netcoreapp2.2\deel3_singletonPattern.AssemblyInfo.cs
