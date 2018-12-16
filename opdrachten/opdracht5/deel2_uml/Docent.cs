@@ -6,5 +6,10 @@ namespace deel2_uml
     {
         public string Emailadres;
         public List<Opleiding> Opleidingen;
+
+        // public int GenereerWachtwoord()
+        // {
+        //     // return "Student - wachtwoord";
+        // }
     }
 }

@@ -21,6 +21,5 @@ namespace deel2_uml
         {
             return "Student - wachtwoord";
         }
-
     }
 }

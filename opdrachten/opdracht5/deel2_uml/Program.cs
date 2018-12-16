@@ -6,10 +6,13 @@ namespace deel2_uml
     {
         static void Main(string[] args)
         {
-            // create instance of Gebruiker class
-            Gebruiker user01 = new Gebruiker();
-            user01.Gebruikersnaam = "user";
-            Console.WriteLine(user01.Gebruikersnaam);
+            //Gebruiker user01 = new Gebruiker();
+            //user01.Gebruikersnaam = "user";
+            //Console.WriteLine(user01.Gebruikersnaam);
+
+            // create instance of Persoon class
+            Persoon persoon01 = new Persoon();
+            Console.WriteLine(persoon01.GenereerWachtwoord(2018000001));
         }
     }
 }

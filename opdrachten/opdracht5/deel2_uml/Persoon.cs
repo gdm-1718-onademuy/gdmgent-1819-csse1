@@ -2,7 +2,7 @@ using System;
 
 namespace deel2_uml
 {
-    public class Persoon : IInformatie
+    public class Persoon : Gebruiker, IInformatie
     {
         private string naam;
         private string voornaam;
@@ -54,19 +54,13 @@ namespace deel2_uml
 
         public string GenereerWachtwoord(int input)
         {
-            return "Test2";
+            return GenereerWachtwoord(input.ToString());
         }
 
         public string GenereerWachtwoord(string input)
         {
-            return "Test1";
+            return input;
         }
-
-
-        /*  public int GenereerWachtwoord()
-         {
-             return "54896465";
-         } */
 
         public override string ToString()
         {
