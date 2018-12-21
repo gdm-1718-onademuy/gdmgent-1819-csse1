@@ -4,17 +4,24 @@
 
 ## Als kotbaas
 ~~Registreren en inloggen met email/password ~~
+
 EXTRA: Registreren en inloggen met Google account
+
 Beheer studentenkot
+
 - Studentenkot toevoegen
 - EXTRA: Er kunnen enkel studentenkoten worden toegevoegd waarvan het adres zich in de Gentse kotzone bevindt. 
 - Gebruik hiervoor de kotzones van https://data.stad.gent/data/42 (Koppelingen naar een externe site.)Koppelingen naar een externe site.   en sla de zones op in de localstorage van de client
 - Studentenkot -waarvan hij/zij de eigenaar is- bewerken
 - Studentenkot -waarvan hij/zij de eigenaar is- verwijderen
+
 Berichten
+
 - Antwoorden op berichten van studenten (kotbazen kunnen niet zelf een conversatie beginnen)
 - Een (web) notification krijgen bij een nieuw bericht
+
 Social Media
+
 - Een kot delen op social media 
 ## Als student
 ~~Registreren en inloggen met email/password~~
