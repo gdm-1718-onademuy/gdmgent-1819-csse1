@@ -4,7 +4,7 @@
 
 #### Als kotbaas
 
--   ~~Registreren en inloggen met email/password
+-   ~~Registreren en inloggen met email/password~~
 -   **EXTRA:** Registreren en inloggen met Google account
 -   Beheer studentenkot
     -   Studentenkot toevoegen
@@ -20,12 +20,12 @@
 
 #### Als student
 
--   ~~Registreren en inloggen met email/password
+-   ~~Registreren en inloggen met email/password~~
 -   **EXTRA:** Registreren en inloggen met Google account
 -   Zoeken
     -   Tinderspel spelen met de beschikbare studentenkoten
         -   Sorteer de koten van dicht naar ver (hogeschool/uni -> kot)
-    -   ~~Lijst tonen met alle studentenkoten
+    -   ~~Lijst tonen met alle studentenkoten~~
         -   Sorteerbaar op afstand
     -   Kaart te tonen met alle studentenkoten
     -   Filteren
